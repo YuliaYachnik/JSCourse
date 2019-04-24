@@ -1,0 +1,23 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "Project for JS Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliaYachnik/JSCourse.git"
+  },
+  "author": "Yuliya Yachnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliaYachnik/JSCourse/issues"
+  },
+  "homepage": "https://github.com/YuliaYachnik/JSCourse#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
